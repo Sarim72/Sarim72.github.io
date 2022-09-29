@@ -33,7 +33,7 @@ authors:
   - 吳恩達
 
 tags:
-  - Academic
+  - Sarim Hashmi
   - 开源
 
 categories:
