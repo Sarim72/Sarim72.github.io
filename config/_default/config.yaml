@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Sarim72 # Website name
+title: Sarim Hashmi # Website name
 baseURL: "https://Sarim72.github.io/" # Website URL
 
 ############################
