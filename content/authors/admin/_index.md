@@ -78,4 +78,4 @@ I am passionate about Robotics, Computer Vision and Deep Learning and currently 
 I am Looking forward to apply for graduate schools in near future. Open to research opportunities in field of Robotics, Computer Vision and Deep Learning.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1wVXwFL0-1GQA4sY6H8I1wLarYm0fpZgb/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1wVXwFL0-1GQA4sY6H8I1wLarYm0fpZgb/view?usp=sharing" "newtab" >}}resume{{< /staticref >}}.
