@@ -6,13 +6,11 @@ title: Sarim Hashmi
 superuser: true
 
 # Role/position/tagline
-role: 
+role: Research Intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Jamia Millia Islamia
-    url: https://www.jmi.ac.in/
-    name: IIIT Delhi
+  - name: IIIT Delhi
     url: https://www.iiitd.ac.in/
     
 
