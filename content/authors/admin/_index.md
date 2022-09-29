@@ -20,6 +20,7 @@ bio: My research interests include Robotics, Machine Vision and Deep Learning.
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
+  - Robotics
   - Machine Learning
   - Computer vision
   - Control Systems
@@ -77,6 +78,4 @@ I am passionate about Robotics, Computer Vision and Deep Learning and currently 
 I am Looking forward to apply for graduate schools in near future. Open to research opportunities in field of Robotics, Computer Vision and Deep Learning.
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1wVXwFL0-1GQA4sY6H8I1wLarYm0fpZgb/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
