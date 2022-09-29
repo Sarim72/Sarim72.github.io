@@ -27,13 +27,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.Tech in Mechanical Engineering.
+    - course: B.Tech in Mechanical Engineering
       institution: Jamia Millia Islamia
       year: 2023
     - course: Bsc in PROGRAMMING AND DATA SCIENCE 
       institution: IIT Madras
       year: 2024
-    - course: Senior Secondary from Saiyyid Hamid Senior Secondry School.
+    - course: Senior Secondary from Saiyyid Hamid Senior Secondry School
       institution: Aligarh Muslim University.
       year: 2019
 
@@ -44,19 +44,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'sarim72.hashmi@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: #https://twitter.com/GeorgeCushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: #https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Sarim72
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/sarim-hashmi-b10b35136/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -72,7 +72,10 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Final Year Undergrad Student At Jamia Millia Islamia (A Central Govt. University), New Delhi.
+I am passionate about Robotics, Computer Vision and Deep Learning and currently involved in research activities regarding the same. 
+I am Looking forward to apply for graduate schools in near future. Open to research opportunities in field of Robotics, Computer Vision and Deep Learning.
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
