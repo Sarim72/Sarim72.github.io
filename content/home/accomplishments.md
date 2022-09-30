@@ -43,7 +43,7 @@ item:
     date_end: "2022-01-01"
     date_start: "2021-09-01"
     description: ""
-    organization: DataCamp
+    organization: Coding Ninjas
     organization_url: https://www.codingninjas.com/
     title: "Data Structures in C++"
     url: ""
