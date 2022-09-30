@@ -43,7 +43,7 @@ experience:
   - title: Research Intern
     company: Jamia Millia Islamia
     company_url: "https://www.jmi.ac.in/mechanical"
-    company_logo: org-x
+    company_logo: JMI
     location: New Delhi
     date_start: "2021-01-01"
     date_end: "2021-03-01"
@@ -54,7 +54,7 @@ experience:
   - title: Team Member
     company: E-yantra Robotics competition
     company_url: "https://portal.e-yantra.org/"
-    company_logo: org-gc
+    company_logo: EYRC
     location: Mumbai
     date_start: "2020-09-01"
     date_end: "2021-03-01"
@@ -68,7 +68,7 @@ experience:
   - title: Technical Head
     company: The Robotic Society JMI Chapter
     company_url: "https://in.linkedin.com/company/trsjmi"
-    company_logo: org-x
+    company_logo: TRS
     location: New Delhi
     date_start: "2020-01-01"
     date_end: "2020-12-31"
