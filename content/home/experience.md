@@ -42,7 +42,7 @@ experience:
 
   - title: Research Intern
     company: Jamia Millia Islamia
-    company_url: ""
+    company_url: "https://www.jmi.ac.in/mechanical"
     company_logo: org-x
     location: New Delhi
     date_start: "2021-01-01"
