@@ -31,13 +31,13 @@ item:
     organization_url: https://www.coursera.org
     title: Control of Mobile Robots
     url: ""
-  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/QDFWM4YA6GUW
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/RAC7PML7S4ZL
     date_end: ""
-    date_start: "2021-01-01"
+    date_start: "2020-09-01"
     description: ""
     organization: Coursera
     organization_url: https://in.coursera.org
-    title: Python Data Structures
+    title: Python for Everybody Specialization
     url: ""
   - certificate_url: https://certificate.codingninjas.com/verify/4f242cb1e5c3f515
     date_end: "2022-01-01"
