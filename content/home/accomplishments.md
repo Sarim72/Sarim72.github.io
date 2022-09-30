@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: "Relevant Course work"
+title: "Relevant Coursework"
 subtitle:
 
 # Date format
@@ -55,23 +55,23 @@ item:
     organization_url: http://introtodeeplearning.com/
     title: MIT Introduction to Deep Learning 6.S191
     url: ""
-  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/24MMJAUGCW7S
+  - certificate_url: ""
     date_end: ""
-    date_start: "2020-09-01"
+    date_start: "2022-01-01"
     description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Control of Mobile Robots
+    organization: University of Michigan
+    organization_url: https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/
+    title: EECS 498.008 / 598.008 Deep Learning for Computer Vision
     url: ""
-  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/24MMJAUGCW7S
+  - certificate_url: ""
     date_end: ""
-    date_start: "2020-09-01"
+    date_start: "2022-02-01"
     description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Control of Mobile Robots
+    organization: Stanford University
+    organization_url: http://cs229.stanford.edu/syllabus-summer2019.html
+    title: CS229  Machine Learning 
     url: ""
-  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/24MMJAUGCW7S
+  - certificate_url: ""
     date_end: ""
     date_start: "2020-09-01"
     description: ""
