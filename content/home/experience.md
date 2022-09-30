@@ -51,9 +51,10 @@ experience:
     location: New Delhi
     date_start: "2021-01-01"
     date_end: "2021-03-01"
-    description: Worked on linear friction welding actuation.
-                Analyzed FSW materials through image processing.
-                Automated linear rails via ball screw using Stepper motor and Arduino Uno.
+    description: |2-
+                * Worked on linear friction welding actuation.
+                * Analyzed FSW materials through image processing.
+                * Automated linear rails via ball screw using Stepper motor and Arduino Uno.
 
 
 design:
