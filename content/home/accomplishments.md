@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: "Accomplish&shy;ments"
+title: "Relevant Course work"
 subtitle:
 
 # Date format
@@ -46,6 +46,38 @@ item:
     organization: Coding Ninjas
     organization_url: https://www.codingninjas.com/
     title: "Data Structures in C++"
+    url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: "2022-05-01"
+    description: ""
+    organization: MIT
+    organization_url: http://introtodeeplearning.com/
+    title: MIT Introduction to Deep Learning 6.S191
+    url: ""
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/24MMJAUGCW7S
+    date_end: ""
+    date_start: "2020-09-01"
+    description: ""
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Control of Mobile Robots
+    url: ""
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/24MMJAUGCW7S
+    date_end: ""
+    date_start: "2020-09-01"
+    description: ""
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Control of Mobile Robots
+    url: ""
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/24MMJAUGCW7S
+    date_end: ""
+    date_start: "2020-09-01"
+    description: ""
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Control of Mobile Robots
     url: ""
 
 design:
