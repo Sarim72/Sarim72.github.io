@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: IIITD Autonomous Last mIle VEhicle (ALIVE)
     company_url: "https://sites.google.com/iiitd.ac.in/iiitd-alive"
-    company_logo: org-gc
+    company_logo: iiitd_logo
     location: Delhi
     date_start: "2022-03-01"
     date_end: ""
