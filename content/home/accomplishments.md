@@ -53,11 +53,11 @@ item:
     description: ""
     organization: MIT
     organization_url: http://introtodeeplearning.com/
-    title: MIT Introduction to Deep Learning 6.S191
+    title: MIT 6.S191 Introduction to Deep Learning 
     url: ""
   - certificate_url: ""
     date_end: ""
-    date_start: "2022-01-01"
+    date_start: "2022-06-01"
     description: ""
     organization: University of Michigan
     organization_url: https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/
@@ -73,11 +73,19 @@ item:
     url: ""
   - certificate_url: ""
     date_end: ""
+    date_start: "2022-07-01"
+    description: ""
+    organization: MIT
+    organization_url: https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/
+    title: MIT 6.801 Machine Vision
+    url: ""
+  - certificate_url: ""
+    date_end: ""
     date_start: "2020-09-01"
     description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Control of Mobile Robots
+    organization: MIT
+    organization_url: https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/
+    title: MIT RES.6-012 Introduction to Probability
     url: ""
 
 design:
