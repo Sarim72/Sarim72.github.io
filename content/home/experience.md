@@ -25,12 +25,12 @@ experience:
   - title: Research Intern
     company: IIITD Autonomous Last mIle VEhicle (ALIVE)
     company_url: "https://sites.google.com/iiitd.ac.in/iiitd-alive"
-    company_logo: iiitd_logo
-    location: Delhi
+    company_logo: org-gc
+    location: 
     date_start: "2022-03-01"
     date_end: ""
     description: |2-
-      
+        
         
         * Developed a Drive by wire system for E-Rickshaw using Arduino Mega and various Electronic Components.
         * Worked on VLP-16 LIDAR and intel Realsense Camera calibration for Autonomous vehicle as well as E-Rickshaw.
