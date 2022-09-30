@@ -30,7 +30,7 @@ experience:
     date_start: "2022-03-01"
     date_end: ""
     description: |2-
-        Worked on:
+      
         
         * Developed a Drive by wire system for E-Rickshaw using Arduino Mega and various Electronic Components.
         * Worked on VLP-16 LIDAR and intel Realsense Camera calibration for Autonomous vehicle as well as E-Rickshaw.
