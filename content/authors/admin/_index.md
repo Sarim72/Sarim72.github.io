@@ -24,6 +24,7 @@ interests:
   - Machine Learning
   - Computer vision
   - Control Systems
+  -Flutter Development
 
 # Education to show in About widget
 education:

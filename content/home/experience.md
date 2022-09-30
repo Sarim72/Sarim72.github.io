@@ -44,6 +44,17 @@ experience:
     date_start: "2016-01-01"
     date_end: "2020-12-31"
     description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Intern
+    company: Jamia Millia Islamia
+    company_url: ""
+    company_logo: org-x
+    location: New Delhi
+    date_start: "2021-01-01"
+    date_end: "2021-03-01"
+    description: Worked on linear friction welding actuation.
+                Analyzed FSW materials through image processing.
+                Automated linear rails via ball screw using Stepper motor and Arduino Uno.
+
 
 design:
   columns: "2"
