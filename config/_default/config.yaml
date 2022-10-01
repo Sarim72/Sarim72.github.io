@@ -64,9 +64,9 @@ related:
   toLower: true
   indices:
     - name: tags
-      weight: 100
+      weight: 0
     - name: categories
-      weight: 70
+      weight: 0
 security:
   _merge: deep
 sitemap:
