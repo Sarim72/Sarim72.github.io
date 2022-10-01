@@ -8,7 +8,7 @@ main:
     url: "#about"
     weight: 10
   - name: Relevant Coursework
-    url: "#Relevant Coursework"
+    url: "#relevant-coursework"
     weight: 20
   - name: Projects
     url: "#projects"
@@ -27,3 +27,4 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
+
