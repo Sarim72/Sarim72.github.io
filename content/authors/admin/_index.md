@@ -78,4 +78,4 @@ highlight_name: true
 I am a final year Undergrad student at Jamia Millia Islamia (A Central Govt. University), New Delhi. I am passionate about Robotics, Computer Vision and Deep Learning and currently involved in research activities regarding the same. I love taking up projects for fun and make sure they see the light of the day. I am looking forward to apply for graduate schools in near future. I am open to research opportunities in the field of Robotics, Computer Vision and Deep Learning.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1ueRHyG5cIlEkgNMZHP1Gc2IpeAGKkwI9/view?usp=sharing" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1dkOHguQy1P0SkWLOIvaYR4mSGzh9yEAq/view?usp=sharing" "newtab" >}}resume{{< /staticref >}}.
